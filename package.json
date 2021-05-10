@@ -1,8 +1,9 @@
 {
-   "name": "URLShortner",
+   "name": "teenURL",
    "version": "1.0.0",
-   "description": "",
-   "main": "index.js",
+   "description": "Build and protect your brand using powerful and recognizable short
+   link",
+   "main": "server.js",
    "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node server.js"
